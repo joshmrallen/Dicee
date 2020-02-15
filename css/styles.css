@@ -1,0 +1,35 @@
+/* Elements */
+
+body {
+  background-color: #5B5B5B;
+}
+
+h1,h2,h3,h4,h5,p {
+  color: #26E5B3;
+  font-family: 'Lacquer', sans-serif;
+}
+
+footer {
+  font-family: 'Lacquer',sans-serif;
+  text-align: center;
+  color: white;
+  padding: 20% 15%
+}
+
+
+
+/* Classes */
+
+.TopBanner {
+  font-family: 'Lobster',cursive;
+  font-size: 10rem;
+  text-align: center;
+  text-shadow: 5px 0 #232931;
+  padding: 3rem 0;
+}
+
+/* Section */
+
+#play {
+  text-align: center;
+}
